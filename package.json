@@ -1,0 +1,17 @@
+{
+  "name": "apitest",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": {
+    "url": "git@github.com:tvkhoa/api-test.git",
+    "type": "git"
+  },
+  "author": "Khoa Thai <khoathaiviet@gmail.com>",
+  "license": "MIT",
+  "dependencies": {
+    "express": "^4.14.0"
+  },
+  "scripts": {
+    "test": "dredd"
+  }
+}
